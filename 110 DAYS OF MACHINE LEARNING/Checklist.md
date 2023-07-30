@@ -1,5 +1,5 @@
 # 110 DAYS OF MACHINE LEARNING CHALLENGE
-https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg
+![Machine Learning Banner](https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg)
 
 ## Welcome to the 110 Days of Machine Learning Challenge! 
 
