@@ -2,8 +2,6 @@
 
 ## My Progress
 
-# CHECKLIST
-
 ## **Week 1-2: Python Programming, NumPy, and Pandas**
 - [x] Day 1: Python Basics, Variables, and Data Types
 - [x] Day 2: Control Flow and Loops in Python
