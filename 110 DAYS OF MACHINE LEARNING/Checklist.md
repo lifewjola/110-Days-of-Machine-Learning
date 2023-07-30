@@ -1,5 +1,5 @@
 # 110 DAYS OF MACHINE LEARNING CHALLENGE
-![Machine Learning Banner](https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg)
+![Machine Learning Banner](https://www.freecodecamp.org/news/content/images/2022/08/A6125B75-DB79-4448-94C9-E6ABD3E0E3E9.jpeg)
 
 ## Welcome to the 110 Days of Machine Learning Challenge! 
 
