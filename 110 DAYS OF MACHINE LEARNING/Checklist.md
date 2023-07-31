@@ -6,17 +6,89 @@
 - You can either fork this repo or click this Google doc [link](https://docs.google.com/document/d/1OI8wjBEIFagR5HJMQ51wtvkHZyErsMSCdQsdON8mQqo/edit?usp=sharing) to have your own checklist. 
 - Make sure you store all your projects and findings in a GitHub repository
 - Always celebrate your milestones and publicize your works
+- You can skip topics you already have firm knowledge about 
 
 Also, note this challenge is supposed to be for 22 weeks. That’s giving an allowance of 2 days weekly for rest and unwinding. 
 Please try to observe the rest you need as you take on this challenge. All the best!
 
 ## FOR CONTRIBUTORS
-- You can provide links to resources for learning and for projects (please indicate if the resources are free or paid)
-- You can add new things (that aren't in the checklist) to learn under the 'BONUS' Days
+- You can provide links to resources for learning (please indicate if the resources are free or paid and if they provide certificates or not)
+- You can add new things to learn (that aren't in the checklist) under the 'BONUS' Days
+
+### GENERAL LEARNING RESOURCES 
+<details>
+<summary> General Learning Resources (Free with no certificate) </summary>
+<br>
+1. Machine Learning - Google Developer Club <br>
+Link to course- https://developers.google.com/machine-learning/foundational-courses <br>
+<br>
+2. 
+<br>
+</details>
+
+<details>
+<summary> General Learning Resources ( Free With certificate) </summary>
+<br>
+1. 
+<br>
+2. 
+<br>
+</details>
+
+<details>
+<summary> General Learning Resources ( Paid With certificate) </summary>
+<br>
+1. 
+<br>
+2. 
+<br>
+</details>
+
+<details>
+<summary> General Learning Resources ( Paid With no certificate) </summary>
+<br>
+1. 
+<br>
+2. 
+<br>
+</details>
 
 # CHECKLIST
 
 ## **Week 1-2: Python Programming, NumPy, and Pandas**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+1. Introduction to Python - Sololearn <br>
+Link to course - khttps://www.sololearn.com/learn/courses/python-introduction <br>
+<br>
+2. Python intermediate - Sololearn<br>
+Link to course - https://www.sololearn.com/learn/courses/python-intermediate <br>
+<br>
+3. Python for Data Science - Sololearn <br>
+Link to course - https://www.sololearn.com/learning/1161 <br>
+<br>
+4. Pandas - Kaggle <br>
+Link to course - https://www.kaggle.com/learn/pandas <br>
+<br>
+5. Data Cleaning - Kaggle <br>
+Link to course - https://www.kaggle.com/learn/data-cleaning <br>
+<br>
+6. Data Visualization - Kaggle <br>
+Link to course - https://www.kaggle.com/learn/data-visualization <br>
+<br>
+7. Exploratory Data Analysis in Python - Codeacademy <br>
+Link to course - https://www.codecademy.com/enrolled/courses/eda-exploratory-data-analysis-python <br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+   
 - [ ] Day 1: Python Basics, Variables, and Data Types
 - [ ] Day 2: Control Flow and Loops in Python
 - [ ] Day 3: Functions and OOP in Python
@@ -29,6 +101,42 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 10: Project: EDA on a Dataset
 
 ## **Week 3-4: Scikit-learn and Model Evaluation**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+1. Intro to Machine Learning - Kaggle <br>
+Link to course- https://www.kaggle.com/learn/intro-to-machine-learning <br>
+<br>
+2. Intermediate Machine Learning - Kaggle <br>
+Link to course- https://www.kaggle.com/learn/intermediate-machine-learning <br>
+<br>
+3. [Machine Learning - Sololearn <br>
+Link to course- https://www.sololearn.com/learning/1094 <br>
+<br>
+4. Basics of Machine Learning - Great Learning <br>
+Link to course- https://www.greatlearning.in/academy/learn-for-free/courses/basics-of-machine-learning-1 <br>
+<br>
+5. Supervised Machine Learning with Logistic Regression and Naïve Bayes - Great Learning <br>
+Link to course- https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-logistic-regression-and-naive-bayes <br>
+<br>
+6. Supervised Machine Learning with Tree Based Models - Great Learning <br>
+Link to course- https://www.greatlearning.in/academy/learn-for-free/courses/supervised-machine-learning-with-tree-based-models <br>
+<br>
+7. Unsupervised Machine Learning with K-means - Great Learning <br>
+Link to course- https://www.greatlearning.in/academy/learn-for-free/courses/unsupervised-machine-learning-with-k-means <br>
+<br>
+8. Feature Engineering - Kaggle <br>
+Link to course- https://www.kaggle.com/learn/feature-engineering <br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 10: Introduction to Scikit-learn and Regression Models
 - [ ] Day 11: Classification Models in Scikit-learn
 - [ ] Day 12: Clustering and Dimensionality Reduction with Scikit-learn
@@ -38,6 +146,24 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 18-20: Project: Unsupervised Learning and Clustering
 
 ## **Week 5-6: Deep Learning Framework (TensorFlow or PyTorch)**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+1. Machine Learning - Sololearn<br>
+Link to course- https://www.sololearn.com/learning/1094 <br>
+<br>
+2. Intro to Deep Learning - Kaggle <br>
+https://www.kaggle.com/learn/intro-to-deep-learning <br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 21: Introduction to Deep Learning and the Chosen Framework
 - [ ] Day 22: Building Neural Networks in TensorFlow or PyTorch
 - [ ] Day 23: Training Neural Networks and Overfitting
@@ -46,6 +172,21 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 28-30: Project: NLP with Deep Learning (Text Classification or Language Generation)
 
 ## **Week 7-9: Computer Vision and NLP**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+1. Computer vision - Kaggle <br>
+Link to course- https://www.kaggle.com/learn/computer-vision <br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 31: Image Preprocessing and Augmentation
 - [ ] Day 32: Object Detection and Image Segmentation
 - [ ] Day 33-34: Project: Object Detection Model
@@ -57,6 +198,19 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 41-43: Project: Language Generation with GPT-like Model
 
 ## **Week 9-10: Reinforcement Learning**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 44: Introduction to Reinforcement Learning
 - [ ] Day 45: Q-Learning and Deep Q Networks (DQNs)
 - [ ] Day 46: Policy Gradient Methods
@@ -64,6 +218,19 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 49-50: Project: Solving an RL Environment with OpenAI Gym
 
 ## **Week 11: Geospatial Analysis**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 51: Introduction to Geospatial Data and GeoPandas
 - [ ] Day 52: Spatial Data Manipulation and Queries
 - [ ] Day 53: Project: Analyzing Geospatial Data for Locations
@@ -71,6 +238,19 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 55: Project: Integrating Geospatial Data into Web App
 
 ## **Week 12: RESTful API and Model Deployment**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 56: Creating RESTful APIs with Flask or FastAPI
 - [ ] Day 57: Deploying ML Models with Docker
 - [ ] Day 58: Project: Building a Web API for ML Model Deployment
@@ -78,6 +258,19 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 60: Project: Deploying the Web App on a Cloud Platform
 
 ## **Week 13-14: MLflow and Model Versioning**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details
+      
 - [ ] Day 61: Introduction to MLflow and Experiment Tracking
 - [ ] Day 62: Managing Model Versions with MLflow
 - [ ] Day 63-64: Project: Tracking Experiments with MLflow
@@ -85,6 +278,19 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 67-70: Project: Building an MLflow Workflow for Model Development
 
 ## **Week 15-16: MLOps and Continuous Integration (CI)**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 71: Introduction to MLOps and CI/CD for ML
 - [ ] Day 72-73: Setting Up CI/CD Pipelines for ML Models
 - [ ] Day 74-76: Project: Building a CI Pipeline for ML Models
@@ -92,6 +298,19 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 79-80: Project: Monitoring ML Models in Production
 
 ## **Week 17: Docker, Kubernetes, and Cloud Platforms**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 81: Introduction to Docker and Containerization
 - [ ] Day 81-82: Building Docker Images for ML Applications
 - [ ] Day 82: Deploying Containers with Docker
@@ -103,12 +322,38 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 85: Deploying ML Models on Azure
 
 ## **Week 18: Data Engineering**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 86: Introduction to Data Engineering and ETL Process
 - [ ] Day 86-87: Building Data Pipelines
 - [ ] Day 88-89: Data Processing with Apache Spark
 - [ ] Day 89-90: Data Storage and Retrieval with Cloud Databases
 
 ## **Week 19: Model Interpretability and Explainability, Time Series Analysis**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 91: Interpreting ML Models' Decisions with Feature Importance
 - [ ] Day 92: Understanding LIME (Local Interpretable Model-Agnostic Explanations)
 - [ ] Day 93: SHAP (SHapley Additive exPlanations) for Model Interpretability
@@ -118,6 +363,19 @@ Please try to observe the rest you need as you take on this challenge. All the b
 - [ ] Day 95: Time Series Forecasting with Prophet
 
 ## **Week 20-21: GANs, Automated Machine Learning (AutoML), Bayesian Methods, Quantum Machine Learning (QML)**
+#### Learning Resources
+<details> 
+<summary>Learning Resources (Free + Certificate)</summary>
+<br>
+<br>
+</details>
+
+<details> 
+<summary>Learning Resources (Free, no certificate)</summary>
+<br>
+<br>
+</details>
+
 - [ ] Day 96: Introduction to GANs and Generative Models
 - [ ] Day 96-97: Building GANs for Image Generation
 - [ ] Day 98: Introduction to Automated Machine Learning (AutoML)
@@ -137,4 +395,10 @@ Please try to observe the rest you need as you take on this challenge. All the b
       
 
 # BONUS DAYS
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- ...
+
 
