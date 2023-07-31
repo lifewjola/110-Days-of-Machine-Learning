@@ -3,6 +3,8 @@
 
 ## Welcome to the 110 Days of Machine Learning Challenge! 
 
+Join the [community](https://chat.whatsapp.com/I79mmIBMFC8H94hfdr1bgX) for support.
+
 - You can either fork this repo or click this Google doc [link](https://docs.google.com/document/d/1OI8wjBEIFagR5HJMQ51wtvkHZyErsMSCdQsdON8mQqo/edit?usp=sharing) to have your own checklist. 
 - Make sure you store all your projects and findings in a GitHub repository
 - Always celebrate your milestones and publicize your works
