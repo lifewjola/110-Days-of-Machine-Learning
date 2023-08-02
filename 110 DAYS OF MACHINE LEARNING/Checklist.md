@@ -397,7 +397,7 @@ Link to course- https://www.kaggle.com/learn/computer-vision <br>
       
 
 # BONUS DAYS
-- [ ]
+- [ ] Bonus Day 1: Model deployment using streamlit
 - [ ]
 - [ ]
 - [ ]
