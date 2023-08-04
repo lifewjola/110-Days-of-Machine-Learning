@@ -17,7 +17,7 @@
 ## **Week 3-4: Scikit-learn and Model Evaluation**
 - [x] Day 10: Introduction to Scikit-learn and Regression Models
 - [x] Day 11: Classification Models in Scikit-learn
-- [ ] Day 12: Clustering and Dimensionality Reduction with Scikit-learn
+- [x] Day 12: Clustering and Dimensionality Reduction with Scikit-learn
 - [ ] Day 13: Model Evaluation and Cross-Validation
 - [ ] Day 14: Hyperparameter Tuning and Model Selection
 - [ ] Day 15-17: Project: Building a Supervised Learning Model
