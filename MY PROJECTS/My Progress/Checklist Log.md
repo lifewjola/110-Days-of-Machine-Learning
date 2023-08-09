@@ -19,9 +19,9 @@
 - [x] Day 11: Classification Models in Scikit-learn
 - [x] Day 12: Clustering and Dimensionality Reduction with Scikit-learn
 - [x] Day 13: Model Evaluation and Cross-Validation
-- [ ] Day 14: Hyperparameter Tuning and Model Selection
-- [ ] Day 15-17: Project: Building a Supervised Learning Model
-- [ ] Day 18-20: Project: Unsupervised Learning and Clustering
+- [x] Day 14: Hyperparameter Tuning and Model Selection
+- [x] Day 15-17: Project: Building a Supervised Learning Model
+- [x] Day 18-20: Project: Unsupervised Learning and Clustering
 
 ## **Week 5-6: Deep Learning Framework (TensorFlow or PyTorch)**
 - [ ] Day 21: Introduction to Deep Learning and the Chosen Framework
