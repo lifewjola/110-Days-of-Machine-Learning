@@ -24,7 +24,7 @@
 - [x] Day 18-20: Project: Unsupervised Learning and Clustering
 
 ## **Week 5-6: Deep Learning Framework (TensorFlow or PyTorch)**
-- [ ] Day 21: Introduction to Deep Learning and the Chosen Framework
+- [x] Day 21: Introduction to Deep Learning and the Chosen Framework
 - [ ] Day 22: Building Neural Networks in TensorFlow or PyTorch
 - [ ] Day 23: Training Neural Networks and Overfitting
 - [ ] Day 24: Transfer Learning and Pre-trained Models
