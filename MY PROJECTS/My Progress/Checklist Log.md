@@ -25,8 +25,8 @@
 
 ## **Week 5-6: Deep Learning Framework (TensorFlow or PyTorch)**
 - [x] Day 21: Introduction to Deep Learning and the Chosen Framework
-- [ ] Day 22: Building Neural Networks in TensorFlow or PyTorch
-- [ ] Day 23: Training Neural Networks and Overfitting
+- [x] Day 22: Building Neural Networks in TensorFlow or PyTorch
+- [x] Day 23: Training Neural Networks and Overfitting
 - [ ] Day 24: Transfer Learning and Pre-trained Models
 - [ ] Day 25-27: Project: Image Classification using Deep Learning
 - [ ] Day 28-30: Project: NLP with Deep Learning (Text Classification or Language Generation)
